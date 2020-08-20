@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Medido de fuerza de la contraseña MVP"
